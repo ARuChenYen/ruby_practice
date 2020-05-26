@@ -1,0 +1,8 @@
+1.  git add -A  開始追蹤所有檔案
+2.  .gitignore 設定不要追蹤的檔案
+3.  git commit -m "xxxx"  commit 訊息
+4.  git cinfig --list 列出所有git的config
+5.  git config --global user.name = "xxx" 修改git user name xxx
+6.  git init 初始化一個git
+
+
